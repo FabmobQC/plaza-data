@@ -1,0 +1,197 @@
+dashboard_title: Plaza Data
+description: null
+css: ''
+slug: null
+uuid: 397eca65-72af-41c4-aa1c-ff2906f7f2f1
+position:
+  CHART-explore-940-1:
+    children: []
+    id: CHART-explore-940-1
+    meta:
+      chartId: 940
+      height: 50
+      sliceName: Total Plaza
+      uuid: 1e147d9c-8a03-43e7-890b-4ad9c84925d3
+      width: 4
+    parents:
+    - ROOT_ID
+    - TABS-1tsZUmX4s3
+    - TAB-ZdO1b2Kbmz
+    - ROW-s3KMtuEB7
+    type: CHART
+  CHART-explore-941-1:
+    children: []
+    id: CHART-explore-941-1
+    meta:
+      chartId: 941
+      height: 50
+      sliceName: Nombre de personnes par mode
+      uuid: 1c252a85-22f7-464f-9d6b-a20a77bfc162
+      width: 8
+    parents:
+    - ROOT_ID
+    - TABS-1tsZUmX4s3
+    - TAB-ZdO1b2Kbmz
+    - ROW-s3KMtuEB7
+    type: CHART
+  CHART-explore-942-1:
+    children: []
+    id: CHART-explore-942-1
+    meta:
+      chartId: 942
+      height: 50
+      sliceName: Carte des visiteurs de la Plaza par mode
+      uuid: 5e410316-60bb-424a-8933-9b13a5aae71e
+      width: 12
+    parents:
+    - ROOT_ID
+    - TABS-1tsZUmX4s3
+    - TAB-ZdO1b2Kbmz
+    - ROW-HplRtRs8dD
+    type: CHART
+  DASHBOARD_VERSION_KEY: v2
+  GRID_ID:
+    children: []
+    id: GRID_ID
+    parents:
+    - ROOT_ID
+    type: GRID
+  HEADER-Ig7rrhApLQ:
+    children: []
+    id: HEADER-Ig7rrhApLQ
+    meta:
+      background: BACKGROUND_TRANSPARENT
+      headerSize: MEDIUM_HEADER
+      text: "Les modes de d\xE9placements des visiteurs de la Plaza Saint Hubert"
+    parents:
+    - ROOT_ID
+    - TABS-1tsZUmX4s3
+    - TAB-ZdO1b2Kbmz
+    type: HEADER
+  HEADER_ID:
+    id: HEADER_ID
+    meta:
+      text: Plaza Data
+    type: HEADER
+  MARKDOWN-frbd3xhV6v:
+    children: []
+    id: MARKDOWN-frbd3xhV6v
+    meta:
+      code: "##### Donn\xE9es type d'une journ\xE9e en semaine en Octobre 2021"
+      height: 8
+      width: 12
+    parents:
+    - ROOT_ID
+    - TABS-1tsZUmX4s3
+    - TAB-ZdO1b2Kbmz
+    - ROW-MutyK2KUY_
+    type: MARKDOWN
+  ROOT_ID:
+    children:
+    - TABS-1tsZUmX4s3
+    id: ROOT_ID
+    type: ROOT
+  ROW-HplRtRs8dD:
+    children:
+    - CHART-explore-942-1
+    id: ROW-HplRtRs8dD
+    meta:
+      '0': ROOT_ID
+      '1': TABS-1tsZUmX4s3
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - TABS-1tsZUmX4s3
+    - TAB-ZdO1b2Kbmz
+    type: ROW
+  ROW-MutyK2KUY_:
+    children:
+    - MARKDOWN-frbd3xhV6v
+    id: ROW-MutyK2KUY_
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - TABS-1tsZUmX4s3
+    - TAB-ZdO1b2Kbmz
+    type: ROW
+  ROW-s3KMtuEB7:
+    children:
+    - CHART-explore-940-1
+    - CHART-explore-941-1
+    id: ROW-s3KMtuEB7
+    meta:
+      background: BACKGROUND_TRANSPARENT
+    parents:
+    - ROOT_ID
+    - TABS-1tsZUmX4s3
+    - TAB-ZdO1b2Kbmz
+    type: ROW
+  TAB-ZdO1b2Kbmz:
+    children:
+    - HEADER-Ig7rrhApLQ
+    - ROW-MutyK2KUY_
+    - ROW-s3KMtuEB7
+    - ROW-HplRtRs8dD
+    id: TAB-ZdO1b2Kbmz
+    meta:
+      defaultText: Tab title
+      placeholder: Tab title
+      text: Principal
+    parents:
+    - ROOT_ID
+    - TABS-1tsZUmX4s3
+    type: TAB
+  TABS-1tsZUmX4s3:
+    children:
+    - TAB-ZdO1b2Kbmz
+    id: TABS-1tsZUmX4s3
+    meta: {}
+    parents:
+    - ROOT_ID
+    type: TABS
+metadata:
+  show_native_filters: true
+  color_scheme: ''
+  refresh_frequency: 0
+  expanded_slices: {}
+  label_colors:
+    Bus: '#3CAEEF'
+    Bixi: '#EB483C'
+    Communauto: '#8BC53E'
+  timed_refresh_immune_slices: []
+  default_filters: '{}'
+  chart_configuration: {}
+  native_filter_configuration:
+  - id: NATIVE_FILTER-nqWfJOnGb
+    controlValues:
+      enableEmptyFilter: false
+      defaultToFirstItem: false
+      multiSelect: true
+      searchAllOptions: false
+      inverseSelection: false
+    name: Periode
+    filterType: filter_select
+    targets:
+    - column:
+        name: periode
+      datasetUuid: df6d3694-a6c1-4697-93b9-2cc701e08990
+    defaultDataMask:
+      extraFormData: {}
+      filterState: {}
+      ownState: {}
+    cascadeParentIds: []
+    scope:
+      rootPath:
+      - ROOT_ID
+      excluded: []
+    type: NATIVE_FILTER
+    description: ''
+    chartsInScope:
+    - 938
+    - 939
+    - 940
+    tabsInScope: []
+  color_scheme_domain: []
+  shared_label_colors: {}
+version: 1.0.0

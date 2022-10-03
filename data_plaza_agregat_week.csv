@@ -1,0 +1,544 @@
+,IsWeekend,periode,nom_station,Mode,Nb_personnes,geometry,lon,lat
+0,False,1 - Avant 6h30,Boyer / Bélanger,Bixi,2.4210526315789473,POINT (-73.60897 45.54006),-73.60897,45.54006
+1,False,1 - Avant 6h30,Boyer / Jean-Talon,Bixi,2.0,POINT (-73.612481 45.541586),-73.612481,45.541586
+2,False,1 - Avant 6h30,Boyer / St-Zotique,Bixi,2.4210526315789473,POINT (-73.60556 45.53848),-73.60556,45.53848
+3,False,1 - Avant 6h30,Boyer et des Carrières (P sur rue),Communauto,1.0,POINT (-73.595643 45.534547),-73.595643,45.534547
+4,False,1 - Avant 6h30,Cartier et Rosemont,Communauto,1.0,POINT (-73.602456 45.536907),-73.602456,45.536907
+5,False,1 - Avant 6h30,D'Iberville et Ontario,Communauto,4.0,POINT (-73.606767 45.537755),-73.606767,45.537755
+6,False,1 - Avant 6h30,FLEX Montréal,Communauto,2.6666666666666665,POINT (-73.597711 45.533714),-73.597711,45.533714
+7,False,1 - Avant 6h30,Laval et Roy (P sur rue),Communauto,1.0,POINT (-73.60852 45.536017),-73.60852,45.536017
+8,False,1 - Avant 6h30,Lionel-Groulx et Vinet,Communauto,1.0,POINT (-73.595438 45.534786),-73.595438,45.534786
+9,False,1 - Avant 6h30,Mont-Royal et De Bullion,Communauto,2.0,POINT (-73.596598 45.533106),-73.596598,45.533106
+10,False,1 - Avant 6h30,Métro Beaubien (de Chateaubriand / Beaubien),Bixi,5.857142857142857,POINT (-73.603635 45.53536),-73.603635,45.53536
+11,False,1 - Avant 6h30,Métro Jean-Talon,Communauto,1.0,POINT (-73.614243 45.538889),-73.614243,45.538889
+12,False,1 - Avant 6h30,St-André et Rosemont (P sur rue),Communauto,1.0,POINT (-73.597807 45.534616),-73.597807,45.534616
+13,False,1 - Avant 6h30,de Bellechasse / de St-Vallier,Bixi,2.066666666666667,POINT (-73.601124 45.53341),-73.601124,45.53341
+14,False,1 - Avant 6h30,de St-Vallier / St-Zotique,Bixi,2.933333333333333,POINT (-73.607546 45.536261),-73.607546,45.536261
+15,False,1 - Avant 6h30,Éthel et de l'Église,Communauto,1.0,POINT (-73.612247 45.540842),-73.612247,45.540842
+16,False,2 - AM (6h30 à 9h30),12e Avenue et Laurier (P sur rue),Communauto,1.0,POINT (-73.606027 45.538174),-73.606027,45.538174
+17,False,2 - AM (6h30 à 9h30),1re Avenue et Jean-Talon,Communauto,1.0,POINT (-73.605203 45.539084),-73.605203,45.539084
+18,False,2 - AM (6h30 à 9h30),21e Avenue et Beaubien,Communauto,1.0,POINT (-73.61069 45.539569),-73.61069,45.539569
+19,False,2 - AM (6h30 à 9h30),21e Avenue et Rosemont,Communauto,1.0,POINT (-73.601353 45.537439),-73.601353,45.537439
+20,False,2 - AM (6h30 à 9h30),"5800, St-Denis",Communauto,1.0,POINT (-73.595517 45.534726),-73.595517,45.534726
+21,False,2 - AM (6h30 à 9h30),6e Avenue et de Bellechasse,Communauto,1.0,POINT (-73.595433 45.534796),-73.595433,45.534796
+22,False,2 - AM (6h30 à 9h30),Alma et Mozart (P sur rue),Communauto,1.5,POINT (-73.61066 45.539569),-73.61066,45.539569
+23,False,2 - AM (6h30 à 9h30),Aréna St-Louis,Communauto,1.0,POINT (-73.597333 45.534931),-73.597333,45.534931
+24,False,2 - AM (6h30 à 9h30),Beaudry et Robin,Communauto,1.0,POINT (-73.602697 45.536466),-73.602697,45.536466
+25,False,2 - AM (6h30 à 9h30),Bernard et de L'Épée,Communauto,1.0,POINT (-73.608138 45.538496),-73.608138,45.538496
+26,False,2 - AM (6h30 à 9h30),Boyer / Bélanger,Bixi,6.095238095238095,POINT (-73.60897 45.54006),-73.60897,45.54006
+27,False,2 - AM (6h30 à 9h30),Boyer / Jean-Talon,Bixi,5.904761904761905,POINT (-73.612481 45.541586),-73.612481,45.541586
+28,False,2 - AM (6h30 à 9h30),Boyer / St-Zotique,Bixi,4.285714285714286,POINT (-73.60556 45.53848),-73.60556,45.53848
+29,False,2 - AM (6h30 à 9h30),Boyer et St-Zotique,Communauto,1.25,POINT (-73.605487 45.536204),-73.605487,45.536204
+30,False,2 - AM (6h30 à 9h30),Boyer et des Carrières (P sur rue),Communauto,1.0,POINT (-73.597573 45.534407),-73.597573,45.534407
+31,False,2 - AM (6h30 à 9h30),Cartier et Rosemont,Communauto,1.0,POINT (-73.59674 45.532465),-73.59674,45.532465
+32,False,2 - AM (6h30 à 9h30),Chambord et Fleury,Communauto,1.0,POINT (-73.604125 45.536059),-73.604125,45.536059
+33,False,2 - AM (6h30 à 9h30),Christophe-Colomb et St-Joseph (P sur rue),Communauto,1.5,POINT (-73.598386 45.53531),-73.598386,45.53531
+34,False,2 - AM (6h30 à 9h30),D'Outremont et Jarry (P sur rue),Communauto,1.0,POINT (-73.596646 45.535146),-73.596646,45.535146
+35,False,2 - AM (6h30 à 9h30),De Chateaubriand et Beaubien,Communauto,1.9166666666666667,POINT (-73.60448 45.535726),-73.60448,45.535726
+36,False,2 - AM (6h30 à 9h30),De Chateaubriand et Mistral,Communauto,2.0,POINT (-73.609805 45.536717),-73.609805,45.536717
+37,False,2 - AM (6h30 à 9h30),De Chateaubriand et Rosemont,Communauto,1.0,POINT (-73.595971 45.53393),-73.595971,45.53393
+38,False,2 - AM (6h30 à 9h30),De Lévis et Notre-Dame,Communauto,1.0,POINT (-73.609505 45.539049),-73.609505,45.539049
+39,False,2 - AM (6h30 à 9h30),De l'Esplanade et Beaubien,Communauto,1.0,POINT (-73.59765 45.535076),-73.59765,45.535076
+40,False,2 - AM (6h30 à 9h30),Des Carrières et St-Denis (P sur rue),Communauto,1.0,POINT (-73.595451 45.534782),-73.595451,45.534782
+41,False,2 - AM (6h30 à 9h30),Des Érables et Mont-Royal,Communauto,3.0,POINT (-73.608211 45.535941),-73.608211,45.535941
+42,False,2 - AM (6h30 à 9h30),Drolet et Beaubien,Communauto,1.0,POINT (-73.608763 45.535947),-73.608763,45.535947
+43,False,2 - AM (6h30 à 9h30),Drolet et Marie-Anne,Communauto,1.6666666666666667,POINT (-73.609923 45.536746),-73.609923,45.536746
+44,False,2 - AM (6h30 à 9h30),Durocher et Saint-Roch (P sur rue),Communauto,1.0,POINT (-73.598801 45.532326),-73.598801,45.532326
+45,False,2 - AM (6h30 à 9h30),Dézéry et Hochelaga,Communauto,1.0,POINT (-73.61357 45.540809),-73.61357,45.540809
+46,False,2 - AM (6h30 à 9h30),FLEX Montréal,Communauto,12.136363636363637,POINT (-73.611943 45.539177),-73.611943,45.539177
+47,False,2 - AM (6h30 à 9h30),Fullum et Larivière,Communauto,1.0,POINT (-73.603988 45.534967),-73.603988,45.534967
+48,False,2 - AM (6h30 à 9h30),Garnier,Communauto,1.0,POINT (-73.597245 45.534837),-73.597245,45.534837
+49,False,2 - AM (6h30 à 9h30),Jarry et Boyer,Communauto,1.0,POINT (-73.609833 45.536719),-73.609833,45.536719
+50,False,2 - AM (6h30 à 9h30),Laprairie et Centre,Communauto,3.0,POINT (-73.614832 45.539106),-73.614832,45.539106
+51,False,2 - AM (6h30 à 9h30),Laurier et Durocher,Communauto,1.0,POINT (-73.598247 45.533989),-73.598247,45.533989
+52,False,2 - AM (6h30 à 9h30),Laurier et St-Urbain,Communauto,1.0,POINT (-73.613373 45.540854),-73.613373,45.540854
+53,False,2 - AM (6h30 à 9h30),Marché Maisonneuve,Communauto,1.0,POINT (-73.597718 45.535016),-73.597718,45.535016
+54,False,2 - AM (6h30 à 9h30),Masson et De Lorimier,Communauto,1.0,POINT (-73.605405 45.535246),-73.605405,45.535246
+55,False,2 - AM (6h30 à 9h30),Métro Beaubien (de Chateaubriand / Beaubien),Bixi,11.571428571428571,POINT (-73.603635 45.53536),-73.603635,45.53536
+56,False,2 - AM (6h30 à 9h30),Parc Grovehill,Communauto,1.5,POINT (-73.608563 45.539257),-73.608563,45.539257
+57,False,2 - AM (6h30 à 9h30),Parc Père-Marquette,Communauto,1.0,POINT (-73.59556 45.534657),-73.59556,45.534657
+58,False,2 - AM (6h30 à 9h30),Rosemont et Christophe-Colomb,Communauto,1.25,POINT (-73.595515 45.534634),-73.595515,45.534634
+59,False,2 - AM (6h30 à 9h30),Rosemont et de la Roche,Communauto,1.0,POINT (-73.597713 45.534479),-73.597713,45.534479
+60,False,2 - AM (6h30 à 9h30),Saint-Julien et De Charleroi,Communauto,1.0,POINT (-73.610472 45.540702),-73.610472,45.540702
+61,False,2 - AM (6h30 à 9h30),St-André et Bélanger,Communauto,1.0,POINT (-73.608865 45.539331),-73.608865,45.539331
+62,False,2 - AM (6h30 à 9h30),St-André et Rosemont (P sur rue),Communauto,1.5,POINT (-73.597802 45.534589),-73.597802,45.534589
+63,False,2 - AM (6h30 à 9h30),St-Denis et St-Zotique,Communauto,1.3333333333333333,POINT (-73.609828 45.536759),-73.609828,45.536759
+64,False,2 - AM (6h30 à 9h30),St-Gérard et Jarry,Communauto,2.0,POINT (-73.609537 45.539691),-73.609537,45.539691
+65,False,2 - AM (6h30 à 9h30),St-Hubert et Duluth (P sur rue),Communauto,1.0,POINT (-73.611712 45.542091),-73.611712,45.542091
+66,False,2 - AM (6h30 à 9h30),St-Joseph O. et Jeanne-Mance,Communauto,1.5,POINT (-73.60191 45.535622),-73.60191,45.535622
+67,False,2 - AM (6h30 à 9h30),St-Laurent et Jean-Talon,Communauto,1.0,POINT (-73.597323 45.534867),-73.597323,45.534867
+68,False,2 - AM (6h30 à 9h30),St-Vallier et Beaubien,Communauto,1.0,POINT (-73.605583 45.535796),-73.605583,45.535796
+69,False,2 - AM (6h30 à 9h30),Vincent-D'Indy et Côte-Ste-Catherine,Communauto,3.0,POINT (-73.59556 45.534801),-73.59556,45.534801
+70,False,2 - AM (6h30 à 9h30),de Bellechasse / de St-Vallier,Bixi,7.8,POINT (-73.601124 45.53341),-73.601124,45.53341
+71,False,2 - AM (6h30 à 9h30),de St-Vallier / St-Zotique,Bixi,4.0,POINT (-73.607546 45.536261),-73.607546,45.536261
+72,False,3 - Jour (9h30 à 15h30),"10526, Boulevard de l'Acadie",Communauto,1.0,POINT (-73.607301 45.538067),-73.607301,45.538067
+73,False,3 - Jour (9h30 à 15h30),12e Avenue et Laurier (P sur rue),Communauto,1.5,POINT (-73.609048 45.53879),-73.609048,45.53879
+74,False,3 - Jour (9h30 à 15h30),18e Avenue et Dandurand,Communauto,2.0,POINT (-73.609037 45.538722),-73.609037,45.538722
+75,False,3 - Jour (9h30 à 15h30),1re Avenue et Jean-Talon,Communauto,1.0,POINT (-73.605578 45.536281),-73.605578,45.536281
+76,False,3 - Jour (9h30 à 15h30),21e Avenue et Rosemont,Communauto,2.0,POINT (-73.61265 45.538599),-73.61265,45.538599
+77,False,3 - Jour (9h30 à 15h30),"5800, St-Denis",Communauto,2.0,POINT (-73.598177 45.534669),-73.598177,45.534669
+78,False,3 - Jour (9h30 à 15h30),5e Avenue et Édouard,Communauto,1.0,POINT (-73.608753 45.539206),-73.608753,45.539206
+79,False,3 - Jour (9h30 à 15h30),6e Avenue,Communauto,1.5,POINT (-73.596253 45.533071),-73.596253,45.533071
+80,False,3 - Jour (9h30 à 15h30),6e Avenue et de Bellechasse,Communauto,1.0,POINT (-73.607288 45.538012),-73.607288,45.538012
+81,False,3 - Jour (9h30 à 15h30),"7000, avenue du Parc",Communauto,2.0,POINT (-73.608293 45.538494),-73.608293,45.538494
+82,False,3 - Jour (9h30 à 15h30),Alma et Mozart (P sur rue),Communauto,1.0,POINT (-73.61021 45.538881),-73.61021,45.538881
+83,False,3 - Jour (9h30 à 15h30),Appartements Rockhill,Communauto,1.0,POINT (-73.60894 45.538797),-73.60894,45.538797
+84,False,3 - Jour (9h30 à 15h30),Aréna Jean Rougeau,Communauto,1.0,POINT (-73.610958 45.539692),-73.610958,45.539692
+85,False,3 - Jour (9h30 à 15h30),Aréna St-Louis,Communauto,1.5,POINT (-73.61229 45.542017),-73.61229,45.542017
+86,False,3 - Jour (9h30 à 15h30),Beaudry et Robin,Communauto,1.0,POINT (-73.602337 45.536589),-73.602337,45.536589
+87,False,3 - Jour (9h30 à 15h30),Bernard et Saint-Laurent,Communauto,1.0,POINT (-73.608168 45.536486),-73.608168,45.536486
+88,False,3 - Jour (9h30 à 15h30),Bernard et Wiseman,Communauto,2.0,POINT (-73.6035 45.535676),-73.6035,45.535676
+89,False,3 - Jour (9h30 à 15h30),Bernard et de L'Épée,Communauto,1.0,POINT (-73.607615 45.536526),-73.607615,45.536526
+90,False,3 - Jour (9h30 à 15h30),Berri et Crémazie,Communauto,1.0,POINT (-73.608618 45.540401),-73.608618,45.540401
+91,False,3 - Jour (9h30 à 15h30),Berri et de Louvain E.,Communauto,1.0,POINT (-73.611567 45.537386),-73.611567,45.537386
+92,False,3 - Jour (9h30 à 15h30),Bibliothèque Hochelaga,Communauto,1.0,POINT (-73.5974 45.533587),-73.5974,45.533587
+93,False,3 - Jour (9h30 à 15h30),Bloomfield et Van Horne,Communauto,1.0,POINT (-73.611033 45.539696),-73.611033,45.539696
+94,False,3 - Jour (9h30 à 15h30),Bossuet et Sherbrooke,Communauto,1.0,POINT (-73.60456 45.537909),-73.60456,45.537909
+95,False,3 - Jour (9h30 à 15h30),Bourbonnière et St-Joseph,Communauto,1.0,POINT (-73.608653 45.538747),-73.608653,45.538747
+96,False,3 - Jour (9h30 à 15h30),Bourget et St-Jacques (No Com.),Communauto,1.0,POINT (-73.601868 45.536601),-73.601868,45.536601
+97,False,3 - Jour (9h30 à 15h30),Boyer / Bélanger,Bixi,18.571428571428573,POINT (-73.60897 45.54006),-73.60897,45.54006
+98,False,3 - Jour (9h30 à 15h30),Boyer / Jean-Talon,Bixi,10.380952380952381,POINT (-73.612481 45.541586),-73.612481,45.541586
+99,False,3 - Jour (9h30 à 15h30),Boyer / St-Zotique,Bixi,18.047619047619047,POINT (-73.60556 45.53848),-73.60556,45.53848
+100,False,3 - Jour (9h30 à 15h30),Boyer et St-Zotique,Communauto,3.235294117647059,POINT (-73.607001 45.539137),-73.607001,45.539137
+101,False,3 - Jour (9h30 à 15h30),Boyer et des Carrières (P sur rue),Communauto,1.0,POINT (-73.595517 45.534642),-73.595517,45.534642
+102,False,3 - Jour (9h30 à 15h30),Bélanger et D'Iberville,Communauto,1.5,POINT (-73.597748 45.534591),-73.597748,45.534591
+103,False,3 - Jour (9h30 à 15h30),Bélanger et De Lorimier,Communauto,1.0,POINT (-73.603666 45.536952),-73.603666,45.536952
+104,False,3 - Jour (9h30 à 15h30),Bélanger et Papineau,Communauto,2.6666666666666665,POINT (-73.603483 45.537629),-73.603483,45.537629
+105,False,3 - Jour (9h30 à 15h30),CEPSUM,Communauto,1.0,POINT (-73.600102 45.534846),-73.600102,45.534846
+106,False,3 - Jour (9h30 à 15h30),Calixa-Lavallée et Sherbrooke,Communauto,1.3333333333333333,POINT (-73.608618 45.535881),-73.608618,45.535881
+107,False,3 - Jour (9h30 à 15h30),Cartier et Rosemont,Communauto,1.6666666666666667,POINT (-73.604563 45.534626),-73.604563,45.534626
+108,False,3 - Jour (9h30 à 15h30),Centre Sablon,Communauto,1.5,POINT (-73.610962 45.538011),-73.610962,45.538011
+109,False,3 - Jour (9h30 à 15h30),Centre St-Pierre,Communauto,1.0,POINT (-73.60476 45.534259),-73.60476,45.534259
+110,False,3 - Jour (9h30 à 15h30),Chambord et Fleury,Communauto,1.0,POINT (-73.612161 45.538319),-73.612161,45.538319
+111,False,3 - Jour (9h30 à 15h30),Chambord et St-Grégoire (P sur rue),Communauto,1.0,POINT (-73.611237 45.541019),-73.611237,45.541019
+112,False,3 - Jour (9h30 à 15h30),Charlemagne et de Rouen (No Com.),Communauto,1.0,POINT (-73.59833 45.534809),-73.59833,45.534809
+113,False,3 - Jour (9h30 à 15h30),Christophe-Colomb et St-Joseph (P sur rue),Communauto,1.0,POINT (-73.598567 45.535391),-73.598567,45.535391
+114,False,3 - Jour (9h30 à 15h30),Crémazie et Fabre,Communauto,1.0,POINT (-73.605037 45.53803),-73.605037,45.53803
+115,False,3 - Jour (9h30 à 15h30),D'Outremont et Jarry (P sur rue),Communauto,1.0,POINT (-73.597455 45.534979),-73.597455,45.534979
+116,False,3 - Jour (9h30 à 15h30),D'Outremont et Jean-Talon,Communauto,1.0,POINT (-73.612945 45.539716),-73.612945,45.539716
+117,False,3 - Jour (9h30 à 15h30),De Bullion et Sherbrooke (P sur rue),Communauto,1.0,POINT (-73.60072 45.535091),-73.60072,45.535091
+118,False,3 - Jour (9h30 à 15h30),De Castelnau E. et Lajeunesse (P sur rue),Communauto,1.0,POINT (-73.613207 45.541801),-73.613207,45.541801
+119,False,3 - Jour (9h30 à 15h30),De Chateaubriand et Beaubien,Communauto,3.066666666666667,POINT (-73.604078 45.536017),-73.604078,45.536017
+120,False,3 - Jour (9h30 à 15h30),De Chateaubriand et Crémazie,Communauto,1.0,POINT (-73.604707 45.534414),-73.604707,45.534414
+121,False,3 - Jour (9h30 à 15h30),De Chateaubriand et Mistral,Communauto,1.4285714285714286,POINT (-73.604908 45.536944),-73.604908,45.536944
+122,False,3 - Jour (9h30 à 15h30),De Chateaubriand et Rosemont,Communauto,2.2,POINT (-73.605455 45.537841),-73.605455,45.537841
+123,False,3 - Jour (9h30 à 15h30),De Gaspé et Gounod (P sur rue),Communauto,1.0,POINT (-73.606725 45.537564),-73.606725,45.537564
+124,False,3 - Jour (9h30 à 15h30),De La Roche et Fleury,Communauto,2.0,POINT (-73.613126 45.539622),-73.613126,45.539622
+125,False,3 - Jour (9h30 à 15h30),De La Roche et St-Joseph (P sur rue),Communauto,1.0,POINT (-73.613433 45.540889),-73.613433,45.540889
+126,False,3 - Jour (9h30 à 15h30),De Lanaudière et Laurier (P sur rue),Communauto,1.0,POINT (-73.60058 45.534939),-73.60058,45.534939
+127,False,3 - Jour (9h30 à 15h30),De Lanaudière et Mont-Royal,Communauto,1.0,POINT (-73.597325 45.534829),-73.597325,45.534829
+128,False,3 - Jour (9h30 à 15h30),De Lévis et Notre-Dame,Communauto,1.0,POINT (-73.59873 45.53212),-73.59873,45.53212
+129,False,3 - Jour (9h30 à 15h30),De Mentana et St-Joseph (P sur rue),Communauto,1.0,POINT (-73.597153 45.533472),-73.597153,45.533472
+130,False,3 - Jour (9h30 à 15h30),De l'Esplanade et Beaubien,Communauto,1.0,POINT (-73.60174 45.53557),-73.60174,45.53557
+131,False,3 - Jour (9h30 à 15h30),De l'Esplanade et Van Horne (P sur rue),Communauto,1.0,POINT (-73.598143 45.531917),-73.598143,45.531917
+132,False,3 - Jour (9h30 à 15h30),De l'Épée et Van Horne,Communauto,1.0,POINT (-73.612335 45.540774),-73.612335,45.540774
+133,False,3 - Jour (9h30 à 15h30),Des Carrières et St-Denis (P sur rue),Communauto,1.0,POINT (-73.595447 45.534776),-73.595447,45.534776
+134,False,3 - Jour (9h30 à 15h30),Des Érables et Jean-Talon E.,Communauto,1.0,POINT (-73.603695 45.537016),-73.603695,45.537016
+135,False,3 - Jour (9h30 à 15h30),Dollard et Ducharme,Communauto,2.0,POINT (-73.601908 45.536677),-73.601908,45.536677
+136,False,3 - Jour (9h30 à 15h30),Drolet et Beaubien,Communauto,1.0,POINT (-73.6102 45.539379),-73.6102,45.539379
+137,False,3 - Jour (9h30 à 15h30),Drolet et Marie-Anne,Communauto,1.5,POINT (-73.601335 45.537497),-73.601335,45.537497
+138,False,3 - Jour (9h30 à 15h30),Dézéry et Hochelaga,Communauto,2.0,POINT (-73.604756 45.534997),-73.604756,45.534997
+139,False,3 - Jour (9h30 à 15h30),Empire et Churchill,Communauto,1.0,POINT (-73.612802 45.541119),-73.612802,45.541119
+140,False,3 - Jour (9h30 à 15h30),Everett et de Bordeaux,Communauto,1.0,POINT (-73.605397 45.538854),-73.605397,45.538854
+141,False,3 - Jour (9h30 à 15h30),FLEX Montréal,Communauto,42.80952380952381,POINT (-73.613333 45.540569),-73.613333,45.540569
+142,False,3 - Jour (9h30 à 15h30),Fabre et Villeray (P sur rue),Communauto,1.3333333333333333,POINT (-73.610408 45.539454),-73.610408,45.539454
+143,False,3 - Jour (9h30 à 15h30),Frontenac et Mont-Royal,Communauto,1.0,POINT (-73.612703 45.540861),-73.612703,45.540861
+144,False,3 - Jour (9h30 à 15h30),Fullum et Larivière,Communauto,1.0,POINT (-73.604318 45.536726),-73.604318,45.536726
+145,False,3 - Jour (9h30 à 15h30),Fullum et Terrasse Guindon (P sur rue),Communauto,1.0,POINT (-73.59725 45.533321),-73.59725,45.533321
+146,False,3 - Jour (9h30 à 15h30),Gare de Saint-Lambert,Communauto,1.0,POINT (-73.60199 45.533162),-73.60199,45.533162
+147,False,3 - Jour (9h30 à 15h30),Garnier,Communauto,1.6666666666666667,POINT (-73.613828 45.539386),-73.613828,45.539386
+148,False,3 - Jour (9h30 à 15h30),Henri-Julien et De Castelnau,Communauto,1.5,POINT (-73.61017 45.539046),-73.61017,45.539046
+149,False,3 - Jour (9h30 à 15h30),Holt et des Érables,Communauto,2.0,POINT (-73.606111 45.53879),-73.606111,45.53879
+150,False,3 - Jour (9h30 à 15h30),Hutchison et Milton,Communauto,1.0,POINT (-73.602338 45.535817),-73.602338,45.535817
+151,False,3 - Jour (9h30 à 15h30),Hutchison et St-Viateur (P sur rue),Communauto,2.0,POINT (-73.605845 45.537402),-73.605845,45.537402
+152,False,3 - Jour (9h30 à 15h30),Jarry et Boyer,Communauto,1.5,POINT (-73.610032 45.540581),-73.610032,45.540581
+153,False,3 - Jour (9h30 à 15h30),Jarry et Henri-Julien,Communauto,1.0,POINT (-73.61026 45.540612),-73.61026,45.540612
+154,False,3 - Jour (9h30 à 15h30),Jean-Talon et De La Roche,Communauto,1.625,POINT (-73.604778 45.538021),-73.604778,45.538021
+155,False,3 - Jour (9h30 à 15h30),Lajeunesse et Henri-Bourassa,Communauto,1.0,POINT (-73.60112 45.53521),-73.60112,45.53521
+156,False,3 - Jour (9h30 à 15h30),Lajeunesse et Jarry,Communauto,1.5,POINT (-73.60063 45.535024),-73.60063,45.535024
+157,False,3 - Jour (9h30 à 15h30),Laurier et Parthenais (P sur rue),Communauto,1.5,POINT (-73.610232 45.539052),-73.610232,45.539052
+158,False,3 - Jour (9h30 à 15h30),Laurier et St-Urbain,Communauto,1.0,POINT (-73.611835 45.539574),-73.611835,45.539574
+159,False,3 - Jour (9h30 à 15h30),Laval et Prince-Arthur (P sur rue),Communauto,1.0,POINT (-73.610253 45.539377),-73.610253,45.539377
+160,False,3 - Jour (9h30 à 15h30),Madison et Sherbrooke,Communauto,1.0,POINT (-73.606897 45.535114),-73.606897,45.535114
+161,False,3 - Jour (9h30 à 15h30),Masson et De Lorimier,Communauto,1.0,POINT (-73.608218 45.538467),-73.608218,45.538467
+162,False,3 - Jour (9h30 à 15h30),Masson et Molson,Communauto,1.3333333333333333,POINT (-73.60228 45.53577),-73.60228,45.53577
+163,False,3 - Jour (9h30 à 15h30),Messier et Sherbrooke (P sur rue),Communauto,1.0,POINT (-73.601888 45.536646),-73.601888,45.536646
+164,False,3 - Jour (9h30 à 15h30),Molson et Everett (P sur rue),Communauto,1.5,POINT (-73.597977 45.532834),-73.597977,45.532834
+165,False,3 - Jour (9h30 à 15h30),Monk et Jolicoeur,Communauto,1.0,POINT (-73.607936 45.536217),-73.607936,45.536217
+166,False,3 - Jour (9h30 à 15h30),Mont-Royal et De Bullion,Communauto,2.0,POINT (-73.607935 45.53964),-73.607935,45.53964
+167,False,3 - Jour (9h30 à 15h30),Métro Beaubien (de Chateaubriand / Beaubien),Bixi,24.80952380952381,POINT (-73.603635 45.53536),-73.603635,45.53536
+168,False,3 - Jour (9h30 à 15h30),Métro Bonaventure,Communauto,1.0,POINT (-73.59549 45.534644),-73.59549,45.534644
+169,False,3 - Jour (9h30 à 15h30),Métro Crémazie,Communauto,1.0,POINT (-73.601046 45.535117),-73.601046,45.535117
+170,False,3 - Jour (9h30 à 15h30),Métro Jean-Talon,Communauto,2.0,POINT (-73.614907 45.539189),-73.614907,45.539189
+171,False,3 - Jour (9h30 à 15h30),Métro Parc (P sur rue),Communauto,1.0,POINT (-73.606562 45.535729),-73.606562,45.535729
+172,False,3 - Jour (9h30 à 15h30),Métro Radisson,Communauto,1.0,POINT (-73.596943 45.534697),-73.596943,45.534697
+173,False,3 - Jour (9h30 à 15h30),Métro Sherbrooke,Communauto,1.0,POINT (-73.604653 45.537992),-73.604653,45.537992
+174,False,3 - Jour (9h30 à 15h30),Nicolet et La Fontaine,Communauto,1.5,POINT (-73.608968 45.540454),-73.608968,45.540454
+175,False,3 - Jour (9h30 à 15h30),Notre-Dame O. et de l'Inspecteur,Communauto,1.0,POINT (-73.608403 45.539077),-73.608403,45.539077
+176,False,3 - Jour (9h30 à 15h30),Papineau et Bellechasse,Communauto,1.0,POINT (-73.59645 45.534431),-73.59645,45.534431
+177,False,3 - Jour (9h30 à 15h30),Papineau et Sherbrooke,Communauto,1.0,POINT (-73.604132 45.536529),-73.604132,45.536529
+178,False,3 - Jour (9h30 à 15h30),Parc Beaubien,Communauto,4.0,POINT (-73.602125 45.535779),-73.602125,45.535779
+179,False,3 - Jour (9h30 à 15h30),Parc La Fontaine,Communauto,1.0,POINT (-73.595615 45.534796),-73.595615,45.534796
+180,False,3 - Jour (9h30 à 15h30),Parc Laurier (P sur rue),Communauto,2.0,POINT (-73.61164 45.538122),-73.61164,45.538122
+181,False,3 - Jour (9h30 à 15h30),Parc Mohawk,Communauto,1.0,POINT (-73.611785 45.539102),-73.611785,45.539102
+182,False,3 - Jour (9h30 à 15h30),Parc Nicolas-Viel,Communauto,1.0,POINT (-73.609467 45.53951),-73.609467,45.53951
+183,False,3 - Jour (9h30 à 15h30),Parc Père-Marquette,Communauto,1.6,POINT (-73.609192 45.539912),-73.609192,45.539912
+184,False,3 - Jour (9h30 à 15h30),Parc Sauvé,Communauto,1.0,POINT (-73.599118 45.535149),-73.599118,45.535149
+185,False,3 - Jour (9h30 à 15h30),Plessis et Ste-Catherine,Communauto,1.0,POINT (-73.601998 45.536922),-73.601998,45.536922
+186,False,3 - Jour (9h30 à 15h30),Préfontaine et Rachel,Communauto,1.0,POINT (-73.611813 45.541962),-73.611813,45.541962
+187,False,3 - Jour (9h30 à 15h30),Quai King-Edward,Communauto,2.0,POINT (-73.598443 45.533919),-73.598443,45.533919
+188,False,3 - Jour (9h30 à 15h30),Rachel et de Chambly,Communauto,2.0,POINT (-73.601415 45.533894),-73.601415,45.533894
+189,False,3 - Jour (9h30 à 15h30),Resther et Boucher,Communauto,1.5,POINT (-73.612312 45.538396),-73.612312,45.538396
+190,False,3 - Jour (9h30 à 15h30),Rivard et Laurier (P sur rue),Communauto,2.0,POINT (-73.59553 45.534614),-73.59553,45.534614
+191,False,3 - Jour (9h30 à 15h30),Rosemont et Christophe-Colomb,Communauto,1.7,POINT (-73.596241 45.534944),-73.596241,45.534944
+192,False,3 - Jour (9h30 à 15h30),Rosemont et Lacordaire,Communauto,1.0,POINT (-73.604715 45.538011),-73.604715,45.538011
+193,False,3 - Jour (9h30 à 15h30),Rosemont et de la Roche,Communauto,2.2,POINT (-73.603932 45.535059),-73.603932,45.535059
+194,False,3 - Jour (9h30 à 15h30),Shearer et Centre,Communauto,1.0,POINT (-73.609178 45.536912),-73.609178,45.536912
+195,False,3 - Jour (9h30 à 15h30),Sherbrooke et Arcand,Communauto,1.0,POINT (-73.602026 45.536526),-73.602026,45.536526
+196,False,3 - Jour (9h30 à 15h30),Sherbrooke et du Fort,Communauto,1.0,POINT (-73.609171 45.540012),-73.609171,45.540012
+197,False,3 - Jour (9h30 à 15h30),St-André et Bélanger,Communauto,3.25,POINT (-73.614635 45.539137),-73.614635,45.539137
+198,False,3 - Jour (9h30 à 15h30),St-André et Rosemont (P sur rue),Communauto,1.8888888888888888,POINT (-73.599347 45.536149),-73.599347,45.536149
+199,False,3 - Jour (9h30 à 15h30),St-Clément et Adam,Communauto,1.0,POINT (-73.604017 45.535619),-73.604017,45.535619
+200,False,3 - Jour (9h30 à 15h30),St-Denis et St-Zotique,Communauto,1.1428571428571428,POINT (-73.61073 45.540831),-73.61073,45.540831
+201,False,3 - Jour (9h30 à 15h30),St-Dominique et Villeray (P sur rue),Communauto,1.0,POINT (-73.602002 45.536701),-73.602002,45.536701
+202,False,3 - Jour (9h30 à 15h30),St-Gérard et Jarry,Communauto,1.0,POINT (-73.605325 45.536114),-73.605325,45.536114
+203,False,3 - Jour (9h30 à 15h30),St-Gérard et Jarry (P sur rue),Communauto,1.0,POINT (-73.6118 45.540037),-73.6118,45.540037
+204,False,3 - Jour (9h30 à 15h30),St-Gérard et Villeray (P sur rue),Communauto,1.0,POINT (-73.610628 45.539456),-73.610628,45.539456
+205,False,3 - Jour (9h30 à 15h30),St-Jacques et St-Jean (No Com.),Communauto,1.0,POINT (-73.603718 45.537692),-73.603718,45.537692
+206,False,3 - Jour (9h30 à 15h30),St-Joseph O. et Jeanne-Mance,Communauto,2.4,POINT (-73.601908 45.535531),-73.601908,45.535531
+207,False,3 - Jour (9h30 à 15h30),St-Joseph et De Bullion,Communauto,1.3333333333333333,POINT (-73.608183 45.538397),-73.608183,45.538397
+208,False,3 - Jour (9h30 à 15h30),St-Laurent et Jean-Talon,Communauto,4.0,POINT (-73.610688 45.539517),-73.610688,45.539517
+209,False,3 - Jour (9h30 à 15h30),St-Urbain et Jean-Talon,Communauto,1.0,POINT (-73.599218 45.534312),-73.599218,45.534312
+210,False,3 - Jour (9h30 à 15h30),St-Vallier et Beaubien,Communauto,1.8333333333333333,POINT (-73.605572 45.535711),-73.605572,45.535711
+211,False,3 - Jour (9h30 à 15h30),Stade Jarry,Communauto,5.0,POINT (-73.60655 45.539002),-73.60655,45.539002
+212,False,3 - Jour (9h30 à 15h30),Technopôle Angus,Communauto,1.0,POINT (-73.59854 45.534006),-73.59854,45.534006
+213,False,3 - Jour (9h30 à 15h30),Tillemont et D'Iberville,Communauto,1.0,POINT (-73.608678 45.538649),-73.608678,45.538649
+214,False,3 - Jour (9h30 à 15h30),Tolhurst et Sauvé,Communauto,1.0,POINT (-73.596778 45.532477),-73.596778,45.532477
+215,False,3 - Jour (9h30 à 15h30),Victoria Hall,Communauto,2.0,POINT (-73.60167 45.535462),-73.60167,45.535462
+216,False,3 - Jour (9h30 à 15h30),de Bellechasse / de St-Vallier,Bixi,14.761904761904763,POINT (-73.601124 45.53341),-73.601124,45.53341
+217,False,3 - Jour (9h30 à 15h30),de St-Vallier / St-Zotique,Bixi,8.65,POINT (-73.607546 45.536261),-73.607546,45.536261
+218,False,3 - Jour (9h30 à 15h30),Église Saint-Vincent-Ferrier,Communauto,1.0,POINT (-73.60671 45.537449),-73.60671,45.537449
+219,False,3 - Jour (9h30 à 15h30),Émard et Laurendeau (P sur rue),Communauto,2.0,POINT (-73.601966 45.536907),-73.601966,45.536907
+220,False,3 - Jour (9h30 à 15h30),Émery et Sanguinet,Communauto,1.0,POINT (-73.601798 45.535511),-73.601798,45.535511
+221,False,3 - Jour (9h30 à 15h30),Émile-Journault et Henri-Julien,Communauto,1.0,POINT (-73.599888 45.535491),-73.599888,45.535491
+222,False,4 - PM (15h30 à 18h30),15e Avenue et Bélanger,Communauto,1.0,POINT (-73.609265 45.538897),-73.609265,45.538897
+223,False,4 - PM (15h30 à 18h30),18e Avenue et Dandurand,Communauto,1.0,POINT (-73.602062 45.536594),-73.602062,45.536594
+224,False,4 - PM (15h30 à 18h30),1re Avenue et Jean-Talon,Communauto,1.0,POINT (-73.612303 45.540269),-73.612303,45.540269
+225,False,4 - PM (15h30 à 18h30),21e Avenue et Rosemont,Communauto,1.0,POINT (-73.595541 45.534831),-73.595541,45.534831
+226,False,4 - PM (15h30 à 18h30),30e Avenue et Bélanger,Communauto,1.0,POINT (-73.612498 45.542064),-73.612498,45.542064
+227,False,4 - PM (15h30 à 18h30),35e Avenue et de Bellechasse (P sur rue),Communauto,1.0,POINT (-73.598103 45.535186),-73.598103,45.535186
+228,False,4 - PM (15h30 à 18h30),"3600, Place St-Joseph",Communauto,1.0,POINT (-73.600885 45.535347),-73.600885,45.535347
+229,False,4 - PM (15h30 à 18h30),43e Avenue et St-Zotique (P sur rue),Communauto,1.0,POINT (-73.612883 45.541464),-73.612883,45.541464
+230,False,4 - PM (15h30 à 18h30),"5800, St-Denis",Communauto,1.7777777777777777,POINT (-73.608613 45.535871),-73.608613,45.535871
+231,False,4 - PM (15h30 à 18h30),6e Avenue,Communauto,1.0,POINT (-73.600318 45.536219),-73.600318,45.536219
+232,False,4 - PM (15h30 à 18h30),6e Avenue et de Bellechasse,Communauto,1.0,POINT (-73.601972 45.536944),-73.601972,45.536944
+233,False,4 - PM (15h30 à 18h30),"7000, avenue du Parc",Communauto,2.0,POINT (-73.607023 45.53708),-73.607023,45.53708
+234,False,4 - PM (15h30 à 18h30),Alma et Mozart (P sur rue),Communauto,1.0,POINT (-73.610377 45.538874),-73.610377,45.538874
+235,False,4 - PM (15h30 à 18h30),Aréna Jean Rougeau,Communauto,1.0,POINT (-73.611993 45.540221),-73.611993,45.540221
+236,False,4 - PM (15h30 à 18h30),Aylwin et Adam (P sur rue),Communauto,3.0,POINT (-73.609103 45.540327),-73.609103,45.540327
+237,False,4 - PM (15h30 à 18h30),Aylwin et Ontario (P sur rue),Communauto,1.0,POINT (-73.601408 45.534329),-73.601408,45.534329
+238,False,4 - PM (15h30 à 18h30),Bernard et Saint-Laurent,Communauto,3.6666666666666665,POINT (-73.612832 45.542454),-73.612832,45.542454
+239,False,4 - PM (15h30 à 18h30),Bernard et Wiseman,Communauto,1.5,POINT (-73.59552 45.534801),-73.59552,45.534801
+240,False,4 - PM (15h30 à 18h30),Bernard et de L'Épée,Communauto,1.0,POINT (-73.612208 45.540774),-73.612208,45.540774
+241,False,4 - PM (15h30 à 18h30),Bloomfield et Van Horne,Communauto,1.0,POINT (-73.612395 45.542304),-73.612395,45.542304
+242,False,4 - PM (15h30 à 18h30),Bourget et St-Jacques (No Com.),Communauto,1.0,POINT (-73.605357 45.535221),-73.605357,45.535221
+243,False,4 - PM (15h30 à 18h30),Boyer / Bélanger,Bixi,16.857142857142858,POINT (-73.60897 45.54006),-73.60897,45.54006
+244,False,4 - PM (15h30 à 18h30),Boyer / Jean-Talon,Bixi,11.666666666666666,POINT (-73.612481 45.541586),-73.612481,45.541586
+245,False,4 - PM (15h30 à 18h30),Boyer / St-Zotique,Bixi,19.476190476190474,POINT (-73.60556 45.53848),-73.60556,45.53848
+246,False,4 - PM (15h30 à 18h30),Boyer et St-Zotique,Communauto,2.5454545454545454,POINT (-73.603665 45.536887),-73.603665,45.536887
+247,False,4 - PM (15h30 à 18h30),Boyer et des Carrières (P sur rue),Communauto,1.25,POINT (-73.596703 45.535154),-73.596703,45.535154
+248,False,4 - PM (15h30 à 18h30),Bélanger et D'Iberville,Communauto,1.3333333333333333,POINT (-73.608723 45.538697),-73.608723,45.538697
+249,False,4 - PM (15h30 à 18h30),Bélanger et De Lorimier,Communauto,1.0,POINT (-73.602028 45.537332),-73.602028,45.537332
+250,False,4 - PM (15h30 à 18h30),Cartier et Rosemont,Communauto,1.0,POINT (-73.600797 45.536434),-73.600797,45.536434
+251,False,4 - PM (15h30 à 18h30),Christophe-Colomb et St-Joseph (P sur rue),Communauto,1.0,POINT (-73.598568 45.535416),-73.598568,45.535416
+252,False,4 - PM (15h30 à 18h30),Clark et de Liège,Communauto,1.0,POINT (-73.607148 45.537967),-73.607148,45.537967
+253,False,4 - PM (15h30 à 18h30),Collège Ahuntsic,Communauto,1.0,POINT (-73.595343 45.534806),-73.595343,45.534806
+254,False,4 - PM (15h30 à 18h30),Collège de Bois-de-Boulogne,Communauto,1.0,POINT (-73.604486 45.5358),-73.604486,45.5358
+255,False,4 - PM (15h30 à 18h30),D'Iberville et Ontario,Communauto,1.0,POINT (-73.605625 45.537239),-73.605625,45.537239
+256,False,4 - PM (15h30 à 18h30),D'Outremont et Jarry (P sur rue),Communauto,1.0,POINT (-73.596982 45.534777),-73.596982,45.534777
+257,False,4 - PM (15h30 à 18h30),D'Outremont et Jean-Talon,Communauto,1.0,POINT (-73.602202 45.535242),-73.602202,45.535242
+258,False,4 - PM (15h30 à 18h30),Dandurand et D'Iberville (P sur rue),Communauto,1.0,POINT (-73.602132 45.536517),-73.602132,45.536517
+259,False,4 - PM (15h30 à 18h30),De Castelnau E. et Lajeunesse (P sur rue),Communauto,1.0,POINT (-73.600858 45.535294),-73.600858,45.535294
+260,False,4 - PM (15h30 à 18h30),De Chateaubriand et Beaubien,Communauto,1.7777777777777777,POINT (-73.608635 45.536735),-73.608635,45.536735
+261,False,4 - PM (15h30 à 18h30),De Chateaubriand et Crémazie,Communauto,1.0,POINT (-73.60871 45.535921),-73.60871,45.535921
+262,False,4 - PM (15h30 à 18h30),De Chateaubriand et Mistral,Communauto,2.0,POINT (-73.597915 45.532731),-73.597915,45.532731
+263,False,4 - PM (15h30 à 18h30),De Chateaubriand et Rosemont,Communauto,1.8,POINT (-73.60193 45.536779),-73.60193,45.536779
+264,False,4 - PM (15h30 à 18h30),De Gaspé et Gounod (P sur rue),Communauto,1.0,POINT (-73.610318 45.538352),-73.610318,45.538352
+265,False,4 - PM (15h30 à 18h30),De Lanaudière et Mont-Royal,Communauto,2.0,POINT (-73.611403 45.537679),-73.611403,45.537679
+266,False,4 - PM (15h30 à 18h30),De Lanaudière et St-Joseph,Communauto,1.0,POINT (-73.597575 45.533086),-73.597575,45.533086
+267,False,4 - PM (15h30 à 18h30),De Liège et de Gaspé (P sur rue),Communauto,1.0,POINT (-73.60853 45.535981),-73.60853,45.535981
+268,False,4 - PM (15h30 à 18h30),De Lorimier et Fleury,Communauto,1.0,POINT (-73.600343 45.536202),-73.600343,45.536202
+269,False,4 - PM (15h30 à 18h30),De l'Esplanade et Beaubien,Communauto,1.5,POINT (-73.597323 45.534886),-73.597323,45.534886
+270,False,4 - PM (15h30 à 18h30),De l'Esplanade et Van Horne (P sur rue),Communauto,1.0,POINT (-73.597335 45.534324),-73.597335,45.534324
+271,False,4 - PM (15h30 à 18h30),De l'Épée et Van Horne,Communauto,1.0,POINT (-73.612838 45.541599),-73.612838,45.541599
+272,False,4 - PM (15h30 à 18h30),Denis-Papin et 10e Avenue,Communauto,2.0,POINT (-73.601473 45.533936),-73.601473,45.533936
+273,False,4 - PM (15h30 à 18h30),Des Carrières et Molson,Communauto,1.0,POINT (-73.603593 45.535372),-73.603593,45.535372
+274,False,4 - PM (15h30 à 18h30),Des Carrières et St-Denis (P sur rue),Communauto,1.0,POINT (-73.60217 45.536552),-73.60217,45.536552
+275,False,4 - PM (15h30 à 18h30),Dollard et Ducharme,Communauto,1.0,POINT (-73.603485 45.536922),-73.603485,45.536922
+276,False,4 - PM (15h30 à 18h30),Drolet et Beaubien,Communauto,1.5,POINT (-73.602028 45.536712),-73.602028,45.536712
+277,False,4 - PM (15h30 à 18h30),Drolet et Marie-Anne,Communauto,1.0,POINT (-73.609346 45.537944),-73.609346,45.537944
+278,False,4 - PM (15h30 à 18h30),Dézéry et Hochelaga,Communauto,1.0,POINT (-73.606262 45.535636),-73.606262,45.535636
+279,False,4 - PM (15h30 à 18h30),Empire et Churchill,Communauto,1.0,POINT (-73.60332 45.537496),-73.60332,45.537496
+280,False,4 - PM (15h30 à 18h30),Everett et 9e Avenue,Communauto,1.0,POINT (-73.607693 45.537192),-73.607693,45.537192
+281,False,4 - PM (15h30 à 18h30),Everett et de Bordeaux,Communauto,2.0,POINT (-73.605842 45.538357),-73.605842,45.538357
+282,False,4 - PM (15h30 à 18h30),FLEX Montréal,Communauto,31.227272727272727,POINT (-73.61354 45.540909),-73.61354,45.540909
+283,False,4 - PM (15h30 à 18h30),Fabre et Villeray (P sur rue),Communauto,1.0,POINT (-73.602663 45.535907),-73.602663,45.535907
+284,False,4 - PM (15h30 à 18h30),Fairmount et Hutchison (P sur rue),Communauto,2.0,POINT (-73.608338 45.535824),-73.608338,45.535824
+285,False,4 - PM (15h30 à 18h30),François-Perrault,Communauto,1.0,POINT (-73.60858 45.538616),-73.60858,45.538616
+286,False,4 - PM (15h30 à 18h30),Fullum et Larivière,Communauto,1.0,POINT (-73.601405 45.537416),-73.601405,45.537416
+287,False,4 - PM (15h30 à 18h30),Fullum et Terrasse Guindon (P sur rue),Communauto,1.0,POINT (-73.598543 45.533974),-73.598543,45.533974
+288,False,4 - PM (15h30 à 18h30),Garnier,Communauto,1.0,POINT (-73.602712 45.535939),-73.602712,45.535939
+289,False,4 - PM (15h30 à 18h30),Gascon et Sherbrooke,Communauto,1.0,POINT (-73.602873 45.536272),-73.602873,45.536272
+290,False,4 - PM (15h30 à 18h30),Henri-Julien et De Castelnau,Communauto,1.3333333333333333,POINT (-73.597772 45.533614),-73.597772,45.533614
+291,False,4 - PM (15h30 à 18h30),Holt et des Érables,Communauto,1.0,POINT (-73.59746 45.535007),-73.59746,45.535007
+292,False,4 - PM (15h30 à 18h30),Hutchison et St-Viateur (P sur rue),Communauto,2.0,POINT (-73.608575 45.535871),-73.608575,45.535871
+293,False,4 - PM (15h30 à 18h30),Isabella et Victoria,Communauto,2.0,POINT (-73.607238 45.538021),-73.607238,45.538021
+294,False,4 - PM (15h30 à 18h30),Jarry et Henri-Julien,Communauto,1.6666666666666667,POINT (-73.610445 45.54076),-73.610445,45.54076
+295,False,4 - PM (15h30 à 18h30),Jean-Talon et De La Roche,Communauto,1.25,POINT (-73.612387 45.541582),-73.612387,45.541582
+296,False,4 - PM (15h30 à 18h30),Jean-de-Brébeuf,Communauto,1.0,POINT (-73.610293 45.539391),-73.610293,45.539391
+297,False,4 - PM (15h30 à 18h30),Lajeunesse et Jarry,Communauto,1.0,POINT (-73.612975 45.541372),-73.612975,45.541372
+298,False,4 - PM (15h30 à 18h30),Laprairie et Centre,Communauto,1.0,POINT (-73.600503 45.535721),-73.600503,45.535721
+299,False,4 - PM (15h30 à 18h30),Laurier et St-Urbain,Communauto,1.0,POINT (-73.611782 45.539595),-73.611782,45.539595
+300,False,4 - PM (15h30 à 18h30),Maison culturelle et communautaire Mtl-Nord,Communauto,2.0,POINT (-73.613922 45.539759),-73.613922,45.539759
+301,False,4 - PM (15h30 à 18h30),Marie-Anne et Boyer (P sur rue),Communauto,1.0,POINT (-73.612872 45.539462),-73.612872,45.539462
+302,False,4 - PM (15h30 à 18h30),Masson et De Lorimier,Communauto,1.25,POINT (-73.61037 45.538726),-73.61037,45.538726
+303,False,4 - PM (15h30 à 18h30),Masson et Molson,Communauto,1.0,POINT (-73.60283 45.535076),-73.60283,45.535076
+304,False,4 - PM (15h30 à 18h30),Molson et Everett (P sur rue),Communauto,1.0,POINT (-73.605275 45.535167),-73.605275,45.535167
+305,False,4 - PM (15h30 à 18h30),Monk et Jolicoeur,Communauto,1.0,POINT (-73.606685 45.537792),-73.606685,45.537792
+306,False,4 - PM (15h30 à 18h30),Métro Beaubien (de Chateaubriand / Beaubien),Bixi,21.333333333333332,POINT (-73.603635 45.53536),-73.603635,45.53536
+307,False,4 - PM (15h30 à 18h30),Métro Jean-Talon,Communauto,1.8,POINT (-73.614403 45.539156),-73.614403,45.539156
+308,False,4 - PM (15h30 à 18h30),Métro Namur,Communauto,1.0,POINT (-73.595418 45.534774),-73.595418,45.534774
+309,False,4 - PM (15h30 à 18h30),Métro Sherbrooke,Communauto,1.0,POINT (-73.59549 45.534735),-73.59549,45.534735
+310,False,4 - PM (15h30 à 18h30),Napoléon et St-Dominique,Communauto,1.5,POINT (-73.605721 45.537846),-73.605721,45.537846
+311,False,4 - PM (15h30 à 18h30),Napoléon et de Mentana,Communauto,1.0,POINT (-73.601167 45.535201),-73.601167,45.535201
+312,False,4 - PM (15h30 à 18h30),Nicolet et La Fontaine,Communauto,2.0,POINT (-73.60895 45.540469),-73.60895,45.540469
+313,False,4 - PM (15h30 à 18h30),Ouimet et De L'Église,Communauto,1.0,POINT (-73.605075 45.538242),-73.605075,45.538242
+314,False,4 - PM (15h30 à 18h30),Parc Beaubien,Communauto,1.0,POINT (-73.602398 45.536906),-73.602398,45.536906
+315,False,4 - PM (15h30 à 18h30),Parc Laurier (P sur rue),Communauto,1.0,POINT (-73.601502 45.535427),-73.601502,45.535427
+316,False,4 - PM (15h30 à 18h30),Parc Mohawk,Communauto,2.0,POINT (-73.611148 45.53879),-73.611148,45.53879
+317,False,4 - PM (15h30 à 18h30),Parc Père-Marquette,Communauto,1.5,POINT (-73.605918 45.538264),-73.605918,45.538264
+318,False,4 - PM (15h30 à 18h30),Pie-IX et Bélanger,Communauto,1.0,POINT (-73.609007 45.54043),-73.609007,45.54043
+319,False,4 - PM (15h30 à 18h30),Place Bonaventure (No Com.),Communauto,1.0,POINT (-73.600483 45.536271),-73.600483,45.536271
+320,False,4 - PM (15h30 à 18h30),Place St-Henri,Communauto,1.0,POINT (-73.611885 45.541339),-73.611885,45.541339
+321,False,4 - PM (15h30 à 18h30),Préfontaine et Rachel,Communauto,1.0,POINT (-73.611993 45.542107),-73.611993,45.542107
+322,False,4 - PM (15h30 à 18h30),Querbes et Laurier,Communauto,1.0,POINT (-73.60513 45.537016),-73.60513,45.537016
+323,False,4 - PM (15h30 à 18h30),Resther et Boucher,Communauto,1.3333333333333333,POINT (-73.611858 45.541984),-73.611858,45.541984
+324,False,4 - PM (15h30 à 18h30),Rivard et Duluth,Communauto,1.0,POINT (-73.602886 45.536311),-73.602886,45.536311
+325,False,4 - PM (15h30 à 18h30),Rosemont et Christophe-Colomb,Communauto,1.1428571428571428,POINT (-73.600085 45.535476),-73.600085,45.535476
+326,False,4 - PM (15h30 à 18h30),Rosemont et de la Roche,Communauto,1.4,POINT (-73.597895 45.534634),-73.597895,45.534634
+327,False,4 - PM (15h30 à 18h30),Sewell et des Pins,Communauto,4.0,POINT (-73.61232 45.541981),-73.61232,45.541981
+328,False,4 - PM (15h30 à 18h30),St-André et Bélanger,Communauto,2.5833333333333335,POINT (-73.605863 45.535466),-73.605863,45.535466
+329,False,4 - PM (15h30 à 18h30),St-André et Rosemont (P sur rue),Communauto,1.0,POINT (-73.596286 45.533891),-73.596286,45.533891
+330,False,4 - PM (15h30 à 18h30),St-Clément et Adam,Communauto,1.0,POINT (-73.597678 45.533682),-73.597678,45.533682
+331,False,4 - PM (15h30 à 18h30),St-Denis et St-Zotique,Communauto,1.6,POINT (-73.609872 45.536759),-73.609872,45.536759
+332,False,4 - PM (15h30 à 18h30),St-Dominique et Roy (P sur rue),Communauto,2.0,POINT (-73.598803 45.536122),-73.598803,45.536122
+333,False,4 - PM (15h30 à 18h30),St-Dominique et Villeray (P sur rue),Communauto,1.5,POINT (-73.612715 45.542542),-73.612715,45.542542
+334,False,4 - PM (15h30 à 18h30),St-Grégoire et Marquette,Communauto,2.0,POINT (-73.605713 45.537295),-73.605713,45.537295
+335,False,4 - PM (15h30 à 18h30),St-Gérard et Jarry,Communauto,1.0,POINT (-73.608428 45.53905),-73.608428,45.53905
+336,False,4 - PM (15h30 à 18h30),St-Jacques et St-Jean (No Com.),Communauto,1.0,POINT (-73.603528 45.537662),-73.603528,45.537662
+337,False,4 - PM (15h30 à 18h30),St-Joseph O. et Jeanne-Mance,Communauto,1.6666666666666667,POINT (-73.60769 45.538747),-73.60769,45.538747
+338,False,4 - PM (15h30 à 18h30),St-Joseph et De Bullion,Communauto,1.3333333333333333,POINT (-73.611123 45.539752),-73.611123,45.539752
+339,False,4 - PM (15h30 à 18h30),St-Joseph et Henri-Valade,Communauto,2.0,POINT (-73.608618 45.535912),-73.608618,45.535912
+340,False,4 - PM (15h30 à 18h30),St-Urbain et St-Joseph O.,Communauto,2.0,POINT (-73.607367 45.539299),-73.607367,45.539299
+341,False,4 - PM (15h30 à 18h30),St-Urbain et St-Viateur (P sur rue),Communauto,1.0,POINT (-73.609207 45.538874),-73.609207,45.538874
+342,False,4 - PM (15h30 à 18h30),St-Vallier et Beaubien,Communauto,1.2222222222222223,POINT (-73.604968 45.535597),-73.604968,45.535597
+343,False,4 - PM (15h30 à 18h30),Stade Jarry,Communauto,1.0,POINT (-73.611731 45.538149),-73.611731,45.538149
+344,False,4 - PM (15h30 à 18h30),Stade Olympique,Communauto,1.0,POINT (-73.609358 45.539035),-73.609358,45.539035
+345,False,4 - PM (15h30 à 18h30),Technopôle Angus,Communauto,1.0,POINT (-73.61194 45.542106),-73.61194,45.542106
+346,False,4 - PM (15h30 à 18h30),Trans Island et Queen-Mary,Communauto,1.0,POINT (-73.612168 45.540857),-73.612168,45.540857
+347,False,4 - PM (15h30 à 18h30),Victoria et Paré,Communauto,2.0,POINT (-73.611867 45.540084),-73.611867,45.540084
+348,False,4 - PM (15h30 à 18h30),de Bellechasse / de St-Vallier,Bixi,12.238095238095237,POINT (-73.601124 45.53341),-73.601124,45.53341
+349,False,4 - PM (15h30 à 18h30),de St-Vallier / St-Zotique,Bixi,9.952380952380953,POINT (-73.607546 45.536261),-73.607546,45.536261
+350,False,5 - Soir (après 18h30),18e Avenue et Dandurand,Communauto,1.0,POINT (-73.604635 45.536919),-73.604635,45.536919
+351,False,5 - Soir (après 18h30),"5800, St-Denis",Communauto,1.2,POINT (-73.599082 45.533911),-73.599082,45.533911
+352,False,5 - Soir (après 18h30),6e Avenue et de Bellechasse,Communauto,1.0,POINT (-73.60539 45.537152),-73.60539,45.537152
+353,False,5 - Soir (après 18h30),7e Avenue,Communauto,1.0,POINT (-73.599038 45.533929),-73.599038,45.533929
+354,False,5 - Soir (après 18h30),Bernard et Saint-Laurent,Communauto,1.0,POINT (-73.595495 45.534729),-73.595495,45.534729
+355,False,5 - Soir (après 18h30),Bernard et Wiseman,Communauto,1.0,POINT (-73.599948 45.536006),-73.599948,45.536006
+356,False,5 - Soir (après 18h30),Berri et Crémazie,Communauto,1.0,POINT (-73.608563 45.535911),-73.608563,45.535911
+357,False,5 - Soir (après 18h30),Boyer / Bélanger,Bixi,15.571428571428571,POINT (-73.60897 45.54006),-73.60897,45.54006
+358,False,5 - Soir (après 18h30),Boyer / Jean-Talon,Bixi,11.19047619047619,POINT (-73.612481 45.541586),-73.612481,45.541586
+359,False,5 - Soir (après 18h30),Boyer / St-Zotique,Bixi,24.095238095238095,POINT (-73.60556 45.53848),-73.60556,45.53848
+360,False,5 - Soir (après 18h30),Boyer et St-Zotique,Communauto,1.9166666666666667,POINT (-73.604925 45.538126),-73.604925,45.538126
+361,False,5 - Soir (après 18h30),Boyer et Villeray (No Com.),Communauto,2.0,POINT (-73.604858 45.537689),-73.604858,45.537689
+362,False,5 - Soir (après 18h30),Boyer et des Carrières (P sur rue),Communauto,1.25,POINT (-73.605393 45.537869),-73.605393,45.537869
+363,False,5 - Soir (après 18h30),Bélanger et D'Iberville,Communauto,1.0,POINT (-73.610113 45.539211),-73.610113,45.539211
+364,False,5 - Soir (après 18h30),Bélanger et De Lorimier,Communauto,1.0,POINT (-73.605835 45.538341),-73.605835,45.538341
+365,False,5 - Soir (après 18h30),Bélanger et Papineau,Communauto,1.0,POINT (-73.605291 45.535284),-73.605291,45.535284
+366,False,5 - Soir (après 18h30),Carrefour Angrignon,Communauto,1.0,POINT (-73.61064 45.539562),-73.61064,45.539562
+367,False,5 - Soir (après 18h30),Cartier et Rosemont,Communauto,1.0,POINT (-73.610588 45.539521),-73.610588,45.539521
+368,False,5 - Soir (après 18h30),Chambord et Fleury,Communauto,1.0,POINT (-73.61289 45.539797),-73.61289,45.539797
+369,False,5 - Soir (après 18h30),Chambord et St-Grégoire (P sur rue),Communauto,1.0,POINT (-73.59703 45.533389),-73.59703,45.533389
+370,False,5 - Soir (après 18h30),Champagneur et Thérèse-Lavoie-Roux (No Com.),Communauto,1.0,POINT (-73.610958 45.538357),-73.610958,45.538357
+371,False,5 - Soir (après 18h30),Chapleau et Sherbrooke (P sur rue),Communauto,1.0,POINT (-73.59683 45.534689),-73.59683,45.534689
+372,False,5 - Soir (après 18h30),Christophe-Colomb et Rachel,Communauto,1.0,POINT (-73.6016 45.533521),-73.6016,45.533521
+373,False,5 - Soir (après 18h30),Clark et Villeneuve (P sur rue),Communauto,1.0,POINT (-73.608677 45.535991),-73.608677,45.535991
+374,False,5 - Soir (après 18h30),Clark et de Liège,Communauto,1.0,POINT (-73.605035 45.537824),-73.605035,45.537824
+375,False,5 - Soir (après 18h30),Collège Ahuntsic,Communauto,2.0,POINT (-73.606017 45.537434),-73.606017,45.537434
+376,False,5 - Soir (après 18h30),Crémazie et Fabre,Communauto,1.0,POINT (-73.60259 45.536574),-73.60259,45.536574
+377,False,5 - Soir (après 18h30),D'Orléans et Ontario,Communauto,2.0,POINT (-73.6073 45.538032),-73.6073,45.538032
+378,False,5 - Soir (après 18h30),D'Outremont et Jean-Talon,Communauto,1.0,POINT (-73.602438 45.535839),-73.602438,45.535839
+379,False,5 - Soir (après 18h30),De Bullion et Rachel (P sur rue),Communauto,1.0,POINT (-73.606783 45.53731),-73.606783,45.53731
+380,False,5 - Soir (après 18h30),De Castelnau E. et Lajeunesse (P sur rue),Communauto,1.0,POINT (-73.608671 45.535902),-73.608671,45.535902
+381,False,5 - Soir (après 18h30),De Chateaubriand et Beaubien,Communauto,1.5,POINT (-73.614468 45.538912),-73.614468,45.538912
+382,False,5 - Soir (après 18h30),De Chateaubriand et Crémazie,Communauto,2.0,POINT (-73.606967 45.537881),-73.606967,45.537881
+383,False,5 - Soir (après 18h30),De Chateaubriand et Mistral,Communauto,1.5,POINT (-73.607725 45.536489),-73.607725,45.536489
+384,False,5 - Soir (après 18h30),De Chateaubriand et Rosemont,Communauto,1.0,POINT (-73.595478 45.534742),-73.595478,45.534742
+385,False,5 - Soir (après 18h30),De La Roche et St-Joseph (P sur rue),Communauto,1.0,POINT (-73.599545 45.53452),-73.599545,45.53452
+386,False,5 - Soir (après 18h30),De Lorimier et Sherbrooke (P sur rue),Communauto,1.0,POINT (-73.597436 45.533542),-73.597436,45.533542
+387,False,5 - Soir (après 18h30),De Mentana et St-Joseph (P sur rue),Communauto,1.0,POINT (-73.595405 45.53478),-73.595405,45.53478
+388,False,5 - Soir (après 18h30),De Normanville et Everett (P sur rue),Communauto,1.0,POINT (-73.60947 45.539869),-73.60947,45.539869
+389,False,5 - Soir (après 18h30),De l'Esplanade et Beaubien,Communauto,1.6666666666666667,POINT (-73.608613 45.535906),-73.608613,45.535906
+390,False,5 - Soir (après 18h30),De l'Esplanade et Mont-Royal (P sur rue),Communauto,2.0,POINT (-73.609776 45.539129),-73.609776,45.539129
+391,False,5 - Soir (après 18h30),De l'Épée et Van Horne,Communauto,2.0,POINT (-73.59919 45.535204),-73.59919,45.535204
+392,False,5 - Soir (après 18h30),De la Montagne et Sherbrooke,Communauto,1.0,POINT (-73.601672 45.536835),-73.601672,45.536835
+393,False,5 - Soir (après 18h30),De la Pointe-Nord et Jacques-le-Ber,Communauto,1.0,POINT (-73.608792 45.539264),-73.608792,45.539264
+394,False,5 - Soir (après 18h30),Decelles et Côte-Ste-Catherine,Communauto,1.0,POINT (-73.601736 45.537374),-73.601736,45.537374
+395,False,5 - Soir (après 18h30),Drolet et Beaubien,Communauto,1.0,POINT (-73.611388 45.539896),-73.611388,45.539896
+396,False,5 - Soir (après 18h30),Drolet et Marie-Anne,Communauto,2.0,POINT (-73.596718 45.534066),-73.596718,45.534066
+397,False,5 - Soir (après 18h30),Duluth et St-Urbain (P sur rue),Communauto,1.0,POINT (-73.609798 45.536797),-73.609798,45.536797
+398,False,5 - Soir (après 18h30),FLEX Montréal,Communauto,35.38095238095238,POINT (-73.613922 45.538667),-73.613922,45.538667
+399,False,5 - Soir (après 18h30),Fairmount et Hutchison (P sur rue),Communauto,1.0,POINT (-73.612638 45.539546),-73.612638,45.539546
+400,False,5 - Soir (après 18h30),François-Perrault,Communauto,1.0,POINT (-73.601097 45.536066),-73.601097,45.536066
+401,False,5 - Soir (après 18h30),Garnier,Communauto,1.0,POINT (-73.605613 45.537295),-73.605613,45.537295
+402,False,5 - Soir (après 18h30),Gascon et Sherbrooke,Communauto,2.0,POINT (-73.596646 45.535039),-73.596646,45.535039
+403,False,5 - Soir (après 18h30),Henri-Julien et De Castelnau,Communauto,1.0,POINT (-73.612937 45.539794),-73.612937,45.539794
+404,False,5 - Soir (après 18h30),Henri-Julien et l'ENAP,Communauto,1.0,POINT (-73.595306 45.534762),-73.595306,45.534762
+405,False,5 - Soir (après 18h30),Holt et des Érables,Communauto,1.0,POINT (-73.612142 45.540202),-73.612142,45.540202
+406,False,5 - Soir (après 18h30),Hutchison et Prince-Arthur (P sur rue),Communauto,2.0,POINT (-73.608687 45.53593),-73.608687,45.53593
+407,False,5 - Soir (après 18h30),Hutchison et St-Viateur (P sur rue),Communauto,1.0,POINT (-73.605176 45.537992),-73.605176,45.537992
+408,False,5 - Soir (après 18h30),Hôtel-de-Ville et René-Lévesque,Communauto,1.0,POINT (-73.603498 45.535757),-73.603498,45.535757
+409,False,5 - Soir (après 18h30),Jardin De Lorimier (P sur rue),Communauto,1.0,POINT (-73.595425 45.534756),-73.595425,45.534756
+410,False,5 - Soir (après 18h30),Jarry et Boyer,Communauto,1.0,POINT (-73.609316 45.53951),-73.609316,45.53951
+411,False,5 - Soir (après 18h30),Jean-Talon et De La Roche,Communauto,1.0,POINT (-73.607438 45.5356),-73.607438,45.5356
+412,False,5 - Soir (après 18h30),Jeanne-Mance et Sherbrooke,Communauto,3.0,POINT (-73.598838 45.533792),-73.598838,45.533792
+413,False,5 - Soir (après 18h30),Lajeunesse et Jarry,Communauto,1.0,POINT (-73.614655 45.539101),-73.614655,45.539101
+414,False,5 - Soir (après 18h30),Laurier et St-Urbain,Communauto,5.0,POINT (-73.600383 45.532916),-73.600383,45.532916
+415,False,5 - Soir (après 18h30),Le Campanile,Communauto,1.0,POINT (-73.608948 45.539277),-73.608948,45.539277
+416,False,5 - Soir (après 18h30),Maguire et De Gaspé (P sur rue),Communauto,1.0,POINT (-73.603125 45.536666),-73.603125,45.536666
+417,False,5 - Soir (après 18h30),Marie-Anne et Boyer (P sur rue),Communauto,1.0,POINT (-73.598365 45.535325),-73.598365,45.535325
+418,False,5 - Soir (après 18h30),Masson et De Lorimier,Communauto,1.0,POINT (-73.608307 45.539197),-73.608307,45.539197
+419,False,5 - Soir (après 18h30),Messier et Sherbrooke (P sur rue),Communauto,1.0,POINT (-73.596552 45.534934),-73.596552,45.534934
+420,False,5 - Soir (après 18h30),Mont-Royal et De Bullion,Communauto,1.0,POINT (-73.607978 45.539661),-73.607978,45.539661
+421,False,5 - Soir (après 18h30),Métro Beaubien (de Chateaubriand / Beaubien),Bixi,23.714285714285715,POINT (-73.603635 45.53536),-73.603635,45.53536
+422,False,5 - Soir (après 18h30),Métro Jean-Talon,Communauto,1.0,POINT (-73.614933 45.538772),-73.614933,45.538772
+423,False,5 - Soir (après 18h30),Parc Beaubien,Communauto,1.0,POINT (-73.603783 45.536944),-73.603783,45.536944
+424,False,5 - Soir (après 18h30),Parc Père-Marquette,Communauto,1.5,POINT (-73.61141 45.537581),-73.61141,45.537581
+425,False,5 - Soir (après 18h30),Resther et Boucher,Communauto,2.0,POINT (-73.605765 45.537859),-73.605765,45.537859
+426,False,5 - Soir (après 18h30),Resther et St-Grégoire,Communauto,2.0,POINT (-73.595385 45.534835),-73.595385,45.534835
+427,False,5 - Soir (après 18h30),Rivard et Laurier (P sur rue),Communauto,1.0,POINT (-73.595438 45.534807),-73.595438,45.534807
+428,False,5 - Soir (après 18h30),Rosemont et Christophe-Colomb,Communauto,1.8333333333333333,POINT (-73.596471 45.534934),-73.596471,45.534934
+429,False,5 - Soir (après 18h30),Rosemont et de la Roche,Communauto,1.0,POINT (-73.598676 45.535419),-73.598676,45.535419
+430,False,5 - Soir (après 18h30),St-André et Bélanger,Communauto,2.142857142857143,POINT (-73.606871 45.535879),-73.606871,45.535879
+431,False,5 - Soir (après 18h30),St-André et Rosemont (P sur rue),Communauto,1.0,POINT (-73.598578 45.534007),-73.598578,45.534007
+432,False,5 - Soir (après 18h30),St-Clément et Adam,Communauto,2.0,POINT (-73.607286 45.538077),-73.607286,45.538077
+433,False,5 - Soir (après 18h30),St-Denis et St-Zotique,Communauto,1.0,POINT (-73.609867 45.536741),-73.609867,45.536741
+434,False,5 - Soir (après 18h30),St-Grégoire et Marquette,Communauto,1.0,POINT (-73.60657 45.536682),-73.60657,45.536682
+435,False,5 - Soir (après 18h30),St-Gérard et Jarry,Communauto,1.0,POINT (-73.596875 45.533294),-73.596875,45.533294
+436,False,5 - Soir (après 18h30),St-Gérard et Villeray (P sur rue),Communauto,1.0,POINT (-73.610477 45.539501),-73.610477,45.539501
+437,False,5 - Soir (après 18h30),St-Joseph O. et Jeanne-Mance,Communauto,1.6666666666666667,POINT (-73.601758 45.535577),-73.601758,45.535577
+438,False,5 - Soir (après 18h30),St-Joseph et De Bullion,Communauto,1.0,POINT (-73.60144 45.53583),-73.60144,45.53583
+439,False,5 - Soir (après 18h30),St-Vallier et Beaubien,Communauto,2.0,POINT (-73.598605 45.534071),-73.598605,45.534071
+440,False,5 - Soir (après 18h30),Tansley et Dorion,Communauto,1.0,POINT (-73.612847 45.541534),-73.612847,45.541534
+441,False,5 - Soir (après 18h30),Wiseman et Saint-Roch (P sur rue),Communauto,1.0,POINT (-73.602428 45.536224),-73.602428,45.536224
+442,False,5 - Soir (après 18h30),de Bellechasse / de St-Vallier,Bixi,13.666666666666666,POINT (-73.601124 45.53341),-73.601124,45.53341
+443,False,5 - Soir (après 18h30),de St-Vallier / St-Zotique,Bixi,11.19047619047619,POINT (-73.607546 45.536261),-73.607546,45.536261
+444,False,5 - Soir (après 18h30),Église Saint-Vincent-Ferrier,Communauto,1.0,POINT (-73.603523 45.535711),-73.603523,45.535711
+445,False,5 - Soir (après 18h30),Île-des-Sœurs et Berlioz,Communauto,1.0,POINT (-73.608758 45.539239),-73.608758,45.539239
+446,False,1 - Avant 6h30,Station Jean-Talon (Jean-Talon/De Chateaubriand),Bus,18.0,POINT (-73.61310748759122 45.53961414869604),-73.61310748759122,45.53961414869604
+447,False,1 - Avant 6h30,Station Jean-Talon Est / Saint-Hubert,Bus,4.0,POINT (-73.61294748761422 45.54065014888152),-73.61294748761422,45.54065014888152
+448,False,1 - Avant 6h30,Station Jean-Talon Est / Saint-Hubert,Bus,1.0,POINT (-73.61317748770671 45.54085314890821),-73.61317748770671,45.54085314890821
+449,False,1 - Avant 6h30,Station Jean-Talon Est / Saint-Hubert,Bus,1.0,POINT (-73.61311748766086 45.54050714885042),-73.61311748766086,45.54050714885042
+450,False,1 - Avant 6h30,De Chateaubriand / Bélanger,Bus,0.0,POINT (-73.61081148674096 45.53857014859912),-73.61081148674096,45.53857014859912
+451,False,1 - Avant 6h30,Bélanger / Saint-Hubert,Bus,1.0,POINT (-73.60999048652516 45.539386148770724),-73.60999048652516,45.539386148770724
+452,False,1 - Avant 6h30,Bélanger / Saint-Hubert,Bus,0.0,POINT (-73.60999648650848 45.53913414872679),-73.60999648650848,45.53913414872679
+453,False,1 - Avant 6h30,De Chateaubriand / Saint-Zotique,Bus,1.0,POINT (-73.60735748546253 45.53700814845492),-73.60735748546253,45.53700814845492
+454,False,1 - Avant 6h30,Station Beaubien (de Chateaubriand / Beaubien),Bus,5.0,POINT (-73.6039564842037 45.535469148312636),-73.6039564842037,45.535469148312636
+455,False,1 - Avant 6h30,Beaubien / Saint-Hubert,Bus,0.0,POINT (-73.60305048395682 45.53625214848161),-73.60305048395682,45.53625214848161
+456,False,1 - Avant 6h30,Beaubien / Saint-Hubert,Bus,0.0,POINT (-73.60311248395917 45.53600214843601),-73.60311248395917,45.53600214843601
+457,False,1 - Avant 6h30,De Chateaubriand / de Bellechasse,Bus,1.0,POINT (-73.60076448302192 45.534020148178314),-73.60076448302192,45.534020148178314
+458,False,1 - Avant 6h30,Saint-Hubert / de Bellechasse,Bus,0.0,POINT (-73.59962248268174 45.53461614832346),-73.59962248268174,45.53461614832346
+459,False,1 - Avant 6h30,Station Rosemont (De Chateaubriand / Rosemont),Bus,1.0,POINT (-73.59753448182693 45.53256514804422),-73.59753448182693,45.53256514804422
+460,False,1 - Avant 6h30,Rosemont / Saint-Hubert,Bus,93.0,POINT (-73.5965604815529 45.53329114820583),-73.5965604815529,45.53329114820583
+461,False,1 - Avant 6h30,Rosemont / Saint-Hubert,Bus,0.0,POINT (-73.59656048153498 45.53304914816385),-73.59656048153498,45.53304914816385
+462,False,1 - Avant 6h30,Saint-Hubert / Rosemont,Bus,0.0,POINT (-73.59702248171938 45.533439148214605),-73.59702248171938,45.533439148214605
+463,False,2 - AM (6h30 à 9h30),Station Jean-Talon (Jean-Talon/De Chateaubriand),Bus,62.0,POINT (-73.61310748759122 45.53961414869604),-73.61310748759122,45.53961414869604
+464,False,2 - AM (6h30 à 9h30),Station Jean-Talon Est / Saint-Hubert,Bus,0.0,POINT (-73.61294748761422 45.54065014888152),-73.61294748761422,45.54065014888152
+465,False,2 - AM (6h30 à 9h30),Station Jean-Talon Est / Saint-Hubert,Bus,12.0,POINT (-73.61294748761422 45.54065014888152),-73.61294748761422,45.54065014888152
+466,False,2 - AM (6h30 à 9h30),Station Jean-Talon Est / Saint-Hubert,Bus,7.0,POINT (-73.61317748770671 45.54085314890821),-73.61317748770671,45.54085314890821
+467,False,2 - AM (6h30 à 9h30),Station Jean-Talon Est / Saint-Hubert,Bus,3.0,POINT (-73.61311748766086 45.54050714885042),-73.61311748766086,45.54050714885042
+468,False,2 - AM (6h30 à 9h30),De Chateaubriand / Bélanger,Bus,5.0,POINT (-73.61081148674096 45.53857014859912),-73.61081148674096,45.53857014859912
+469,False,2 - AM (6h30 à 9h30),Bélanger / Saint-Hubert,Bus,24.0,POINT (-73.60999048652516 45.539386148770724),-73.60999048652516,45.539386148770724
+470,False,2 - AM (6h30 à 9h30),Bélanger / Saint-Hubert,Bus,1.0,POINT (-73.60999648650848 45.53913414872679),-73.60999648650848,45.53913414872679
+471,False,2 - AM (6h30 à 9h30),De Chateaubriand / Saint-Zotique,Bus,5.0,POINT (-73.60735748546253 45.53700814845492),-73.60735748546253,45.53700814845492
+472,False,2 - AM (6h30 à 9h30),Station Beaubien (de Chateaubriand / Beaubien),Bus,18.0,POINT (-73.6039564842037 45.535469148312636),-73.6039564842037,45.535469148312636
+473,False,2 - AM (6h30 à 9h30),Beaubien / Saint-Hubert,Bus,7.0,POINT (-73.60305048395682 45.53625214848161),-73.60305048395682,45.53625214848161
+474,False,2 - AM (6h30 à 9h30),Beaubien / Saint-Hubert,Bus,0.0,POINT (-73.60311248395917 45.53600214843601),-73.60311248395917,45.53600214843601
+475,False,2 - AM (6h30 à 9h30),De Chateaubriand / de Bellechasse,Bus,1.0,POINT (-73.60076448302192 45.534020148178314),-73.60076448302192,45.534020148178314
+476,False,2 - AM (6h30 à 9h30),Station Rosemont (De Chateaubriand / Rosemont),Bus,0.0,POINT (-73.59753448182693 45.53256514804422),-73.59753448182693,45.53256514804422
+477,False,2 - AM (6h30 à 9h30),Rosemont / Saint-Hubert,Bus,174.0,POINT (-73.5965604815529 45.53329114820583),-73.5965604815529,45.53329114820583
+478,False,2 - AM (6h30 à 9h30),Rosemont / Saint-Hubert,Bus,13.0,POINT (-73.5965604815529 45.53329114820583),-73.5965604815529,45.53329114820583
+479,False,2 - AM (6h30 à 9h30),Rosemont / Saint-Hubert,Bus,291.0,POINT (-73.5965604815529 45.53329114820583),-73.5965604815529,45.53329114820583
+480,False,2 - AM (6h30 à 9h30),Rosemont / Saint-Hubert,Bus,34.0,POINT (-73.5965604815529 45.53329114820583),-73.5965604815529,45.53329114820583
+481,False,2 - AM (6h30 à 9h30),Rosemont / Saint-Hubert,Bus,2.0,POINT (-73.59656048153498 45.53304914816385),-73.59656048153498,45.53304914816385
+482,False,2 - AM (6h30 à 9h30),Rosemont / Saint-Hubert,Bus,2.0,POINT (-73.59656048153498 45.53304914816385),-73.59656048153498,45.53304914816385
+483,False,2 - AM (6h30 à 9h30),Rosemont / Saint-Hubert,Bus,0.0,POINT (-73.59656048153498 45.53304914816385),-73.59656048153498,45.53304914816385
+484,False,3 - Jour (9h30 à 15h30),Station Jean-Talon (Jean-Talon/De Chateaubriand),Bus,107.0,POINT (-73.61310748759122 45.53961414869604),-73.61310748759122,45.53961414869604
+485,False,3 - Jour (9h30 à 15h30),Station Jean-Talon Est / Saint-Hubert,Bus,33.0,POINT (-73.61294748761422 45.54065014888152),-73.61294748761422,45.54065014888152
+486,False,3 - Jour (9h30 à 15h30),Station Jean-Talon Est / Saint-Hubert,Bus,37.0,POINT (-73.61317748770671 45.54085314890821),-73.61317748770671,45.54085314890821
+487,False,3 - Jour (9h30 à 15h30),Station Jean-Talon Est / Saint-Hubert,Bus,20.0,POINT (-73.61311748766086 45.54050714885042),-73.61311748766086,45.54050714885042
+488,False,3 - Jour (9h30 à 15h30),De Chateaubriand / Bélanger,Bus,16.0,POINT (-73.61081148674096 45.53857014859912),-73.61081148674096,45.53857014859912
+489,False,3 - Jour (9h30 à 15h30),Saint-Hubert / Bélanger,Bus,0.0,POINT (-73.60981348645394 45.53922914874996),-73.60981348645394,45.53922914874996
+490,False,3 - Jour (9h30 à 15h30),Bélanger / Saint-Hubert,Bus,72.0,POINT (-73.60999048652516 45.539386148770724),-73.60999048652516,45.539386148770724
+491,False,3 - Jour (9h30 à 15h30),Bélanger / Saint-Hubert,Bus,10.0,POINT (-73.60999648650848 45.53913414872679),-73.60999648650848,45.53913414872679
+492,False,3 - Jour (9h30 à 15h30),De Chateaubriand / Saint-Zotique,Bus,8.0,POINT (-73.60735748546253 45.53700814845492),-73.60735748546253,45.53700814845492
+493,False,3 - Jour (9h30 à 15h30),Saint-Hubert / Saint-Zotique,Bus,1.0,POINT (-73.60637148517978 45.53767014860583),-73.60637148517978,45.53767014860583
+494,False,3 - Jour (9h30 à 15h30),Station Beaubien (de Chateaubriand / Beaubien),Bus,41.0,POINT (-73.6039564842037 45.535469148312636),-73.6039564842037,45.535469148312636
+495,False,3 - Jour (9h30 à 15h30),Beaubien / Saint-Hubert,Bus,0.0,POINT (-73.60305048395682 45.53625214848161),-73.60305048395682,45.53625214848161
+496,False,3 - Jour (9h30 à 15h30),Beaubien / Saint-Hubert,Bus,0.0,POINT (-73.60305048395682 45.53625214848161),-73.60305048395682,45.53625214848161
+497,False,3 - Jour (9h30 à 15h30),Beaubien / Saint-Hubert,Bus,2.0,POINT (-73.60311248395917 45.53600214843601),-73.60311248395917,45.53600214843601
+498,False,3 - Jour (9h30 à 15h30),De Chateaubriand / de Bellechasse,Bus,2.0,POINT (-73.60076448302192 45.534020148178314),-73.60076448302192,45.534020148178314
+499,False,3 - Jour (9h30 à 15h30),Saint-Hubert / de Bellechasse,Bus,0.0,POINT (-73.59962248268174 45.53461614832346),-73.59962248268174,45.53461614832346
+500,False,3 - Jour (9h30 à 15h30),Station Rosemont (De Chateaubriand / Rosemont),Bus,0.0,POINT (-73.59753448182693 45.53256514804422),-73.59753448182693,45.53256514804422
+501,False,3 - Jour (9h30 à 15h30),Rosemont / Saint-Hubert,Bus,48.0,POINT (-73.5965604815529 45.53329114820583),-73.5965604815529,45.53329114820583
+502,False,3 - Jour (9h30 à 15h30),Rosemont / Saint-Hubert,Bus,208.0,POINT (-73.5965604815529 45.53329114820583),-73.5965604815529,45.53329114820583
+503,False,3 - Jour (9h30 à 15h30),Rosemont / Saint-Hubert,Bus,16.0,POINT (-73.5965604815529 45.53329114820583),-73.5965604815529,45.53329114820583
+504,False,3 - Jour (9h30 à 15h30),Rosemont / Saint-Hubert,Bus,5.0,POINT (-73.5965604815529 45.53329114820583),-73.5965604815529,45.53329114820583
+505,False,3 - Jour (9h30 à 15h30),Rosemont / Saint-Hubert,Bus,15.0,POINT (-73.5965604815529 45.53329114820583),-73.5965604815529,45.53329114820583
+506,False,3 - Jour (9h30 à 15h30),Rosemont / Saint-Hubert,Bus,5.0,POINT (-73.59656048153498 45.53304914816385),-73.59656048153498,45.53304914816385
+507,False,3 - Jour (9h30 à 15h30),Rosemont / Saint-Hubert,Bus,6.0,POINT (-73.59656048153498 45.53304914816385),-73.59656048153498,45.53304914816385
+508,False,3 - Jour (9h30 à 15h30),Saint-Hubert / Rosemont,Bus,0.0,POINT (-73.59702248171938 45.533439148214605),-73.59702248171938,45.533439148214605
+509,False,4 - PM (15h30 à 18h30),Station Jean-Talon (Jean-Talon/De Chateaubriand),Bus,51.0,POINT (-73.61310748759122 45.53961414869604),-73.61310748759122,45.53961414869604
+510,False,4 - PM (15h30 à 18h30),Station Jean-Talon Est / Saint-Hubert,Bus,33.0,POINT (-73.61294748761422 45.54065014888152),-73.61294748761422,45.54065014888152
+511,False,4 - PM (15h30 à 18h30),Station Jean-Talon Est / Saint-Hubert,Bus,9.0,POINT (-73.61317748770671 45.54085314890821),-73.61317748770671,45.54085314890821
+512,False,4 - PM (15h30 à 18h30),Station Jean-Talon Est / Saint-Hubert,Bus,7.0,POINT (-73.61311748766086 45.54050714885042),-73.61311748766086,45.54050714885042
+513,False,4 - PM (15h30 à 18h30),De Chateaubriand / Bélanger,Bus,7.0,POINT (-73.61081148674096 45.53857014859912),-73.61081148674096,45.53857014859912
+514,False,4 - PM (15h30 à 18h30),Saint-Hubert / Bélanger,Bus,1.0,POINT (-73.60981348645394 45.53922914874996),-73.60981348645394,45.53922914874996
+515,False,4 - PM (15h30 à 18h30),Bélanger / Saint-Hubert,Bus,25.0,POINT (-73.60999048652516 45.539386148770724),-73.60999048652516,45.539386148770724
+516,False,4 - PM (15h30 à 18h30),Bélanger / Saint-Hubert,Bus,4.0,POINT (-73.60999648650848 45.53913414872679),-73.60999648650848,45.53913414872679
+517,False,4 - PM (15h30 à 18h30),De Chateaubriand / Saint-Zotique,Bus,4.0,POINT (-73.60735748546253 45.53700814845492),-73.60735748546253,45.53700814845492
+518,False,4 - PM (15h30 à 18h30),Station Beaubien (de Chateaubriand / Beaubien),Bus,21.0,POINT (-73.6039564842037 45.535469148312636),-73.6039564842037,45.535469148312636
+519,False,4 - PM (15h30 à 18h30),Beaubien / Saint-Hubert,Bus,3.0,POINT (-73.60311248395917 45.53600214843601),-73.60311248395917,45.53600214843601
+520,False,4 - PM (15h30 à 18h30),De Chateaubriand / de Bellechasse,Bus,2.0,POINT (-73.60076448302192 45.534020148178314),-73.60076448302192,45.534020148178314
+521,False,4 - PM (15h30 à 18h30),Rosemont / Saint-Hubert,Bus,93.0,POINT (-73.5965604815529 45.53329114820583),-73.5965604815529,45.53329114820583
+522,False,4 - PM (15h30 à 18h30),Rosemont / Saint-Hubert,Bus,51.0,POINT (-73.5965604815529 45.53329114820583),-73.5965604815529,45.53329114820583
+523,False,4 - PM (15h30 à 18h30),Rosemont / Saint-Hubert,Bus,5.0,POINT (-73.59656048153498 45.53304914816385),-73.59656048153498,45.53304914816385
+524,False,4 - PM (15h30 à 18h30),Rosemont / Saint-Hubert,Bus,5.0,POINT (-73.59656048153498 45.53304914816385),-73.59656048153498,45.53304914816385
+525,False,5 - Soir (après 18h30),Station Jean-Talon (Jean-Talon/De Chateaubriand),Bus,25.0,POINT (-73.61310748759122 45.53961414869604),-73.61310748759122,45.53961414869604
+526,False,5 - Soir (après 18h30),Station Jean-Talon Est / Saint-Hubert,Bus,22.0,POINT (-73.61294748761422 45.54065014888152),-73.61294748761422,45.54065014888152
+527,False,5 - Soir (après 18h30),Station Jean-Talon Est / Saint-Hubert,Bus,12.0,POINT (-73.61317748770671 45.54085314890821),-73.61317748770671,45.54085314890821
+528,False,5 - Soir (après 18h30),Station Jean-Talon Est / Saint-Hubert,Bus,0.0,POINT (-73.61317748770671 45.54085314890821),-73.61317748770671,45.54085314890821
+529,False,5 - Soir (après 18h30),Station Jean-Talon Est / Saint-Hubert,Bus,6.0,POINT (-73.61311748766086 45.54050714885042),-73.61311748766086,45.54050714885042
+530,False,5 - Soir (après 18h30),De Chateaubriand / Bélanger,Bus,4.0,POINT (-73.61081148674096 45.53857014859912),-73.61081148674096,45.53857014859912
+531,False,5 - Soir (après 18h30),Bélanger / Saint-Hubert,Bus,10.0,POINT (-73.60999048652516 45.539386148770724),-73.60999048652516,45.539386148770724
+532,False,5 - Soir (après 18h30),Bélanger / Saint-Hubert,Bus,1.0,POINT (-73.60999648650848 45.53913414872679),-73.60999648650848,45.53913414872679
+533,False,5 - Soir (après 18h30),De Chateaubriand / Saint-Zotique,Bus,5.0,POINT (-73.60735748546253 45.53700814845492),-73.60735748546253,45.53700814845492
+534,False,5 - Soir (après 18h30),Station Beaubien (de Chateaubriand / Beaubien),Bus,17.0,POINT (-73.6039564842037 45.535469148312636),-73.6039564842037,45.535469148312636
+535,False,5 - Soir (après 18h30),Beaubien / Saint-Hubert,Bus,0.0,POINT (-73.60305048395682 45.53625214848161),-73.60305048395682,45.53625214848161
+536,False,5 - Soir (après 18h30),Beaubien / Saint-Hubert,Bus,1.0,POINT (-73.60311248395917 45.53600214843601),-73.60311248395917,45.53600214843601
+537,False,5 - Soir (après 18h30),De Chateaubriand / de Bellechasse,Bus,1.0,POINT (-73.60076448302192 45.534020148178314),-73.60076448302192,45.534020148178314
+538,False,5 - Soir (après 18h30),Rosemont / Saint-Hubert,Bus,10.0,POINT (-73.5965604815529 45.53329114820583),-73.5965604815529,45.53329114820583
+539,False,5 - Soir (après 18h30),Rosemont / Saint-Hubert,Bus,44.0,POINT (-73.5965604815529 45.53329114820583),-73.5965604815529,45.53329114820583
+540,False,5 - Soir (après 18h30),Rosemont / Saint-Hubert,Bus,6.0,POINT (-73.59656048153498 45.53304914816385),-73.59656048153498,45.53304914816385
+541,False,5 - Soir (après 18h30),Rosemont / Saint-Hubert,Bus,14.0,POINT (-73.59656048153498 45.53304914816385),-73.59656048153498,45.53304914816385
+542,False,5 - Soir (après 18h30),Saint-Hubert / Rosemont,Bus,0.0,POINT (-73.59702248171938 45.533439148214605),-73.59702248171938,45.533439148214605
